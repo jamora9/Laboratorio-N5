@@ -44,10 +44,7 @@ Tabla 5.1. Valores del Circuito Equivalente de Thévenin
 
 
 |Calculado||Calculado||
-|------|-|-----|-|
-
 |Medido||Medido||
-|------|-|-----|-|
 
 # Video
 
