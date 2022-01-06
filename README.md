@@ -37,6 +37,12 @@
 
 - Resultados obtenidos para el circuito.
 
+Tabla 5.1. Valores del Circuito Equivalente de Thévenin
+
+|VTH (V)|RTH (Ω)|
+|Calculado||Calculado||
+|Medido||Medido||
+|------|-|-----|-|
 
 # Video
 
