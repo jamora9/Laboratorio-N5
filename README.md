@@ -30,7 +30,10 @@
 
 # Procedimiento
 - Implemente el circuito que se presenta en la figura
+
+
 ![](https://github.com/jamora9/Laboratorio-N5/blob/main/Ima/Captura%20de%20pantalla%202022-01-06%20173452.png)
+
 - Resolución simulada
 
 - Resolución analitica
