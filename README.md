@@ -16,10 +16,27 @@
 
 - Material y equipo requerido
 
+|Cantidad| Material o Equipo|
+|--------|------------------|
+|2| Fuente de Voltaje de C.D.|
+|2| Multímetro Digital|
+|1| Resistor de 560 Ω|
+|1| Resistor de 4.7 kΩ|
+|1| Resistor de 330 Ω|
+|1| Resistor de 100 Ω|
+|1| Resistor de 1 kΩ|
+|1|Potenciómetro de precisión de 1 kΩ|
+|1|Protoboard|
+
 # Procedimiento
 - Implemente el circuito que se presenta en la figura
 ![](https://github.com/jamora9/Laboratorio-N5/blob/main/Ima/Captura%20de%20pantalla%202022-01-06%20173452.png)
 - Resolución simulada
+
+- Resolución analitica
+
+- Resultados obtenidos para el circuito.
+
 
 # Video
 
