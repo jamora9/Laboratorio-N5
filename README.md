@@ -31,10 +31,38 @@
 # Procedimiento
 - Implemente el circuito que se presenta en la figura
 
-
 ![](https://github.com/jamora9/Laboratorio-N5/blob/main/Ima/Captura%20de%20pantalla%202022-01-06%20173452.png)
 
 - Resolución simulada
+
+Conección del circuito
+
+![](https://github.com/jamora9/Laboratorio-N5/blob/main/Ima/Captura%20de%20pantalla%202022-01-06%20195708.png)
+
+Voltaje del circuito original
+
+![](https://github.com/jamora9/Laboratorio-N5/blob/main/Ima/Captura%20de%20pantalla%202022-01-06%20202219.png)
+
+Corriente del circuito original
+
+![](https://github.com/jamora9/Laboratorio-N5/blob/main/Ima/Captura%20de%20pantalla%202022-01-06%20202407.png)
+
+Voltaje de Thevenin
+
+![](https://github.com/jamora9/Laboratorio-N5/blob/main/Ima/Captura%20de%20pantalla%202022-01-06%20202629.png)
+
+Resistencia de Thevenin
+
+![](https://github.com/jamora9/Laboratorio-N5/blob/main/Ima/Captura%20de%20pantalla%202022-01-06%20195445.png)
+
+Circuito equivalente de Thevenin
+
+Voltaje 
+![](https://github.com/jamora9/Laboratorio-N5/blob/main/Ima/Captura%20de%20pantalla%202022-01-06%20201024.png)
+
+Corriente
+
+![](https://github.com/jamora9/Laboratorio-N5/blob/main/Ima/Captura%20de%20pantalla%202022-01-06%20201336.png)
 
 - Resolución analitica
 
@@ -45,7 +73,7 @@ Tabla 5.1. Valores del Circuito Equivalente de Thevenin
 |VTH |(V)|RTH |(Ω)|
 |----|---|---|----|
 |Calculado||Calculado||
-|Medido||Medido||
+|Medido|5.06 [V]|Medido|299 [Ω]|
 
 Tabla 5.2. Comprobación del Teorema de Thevenin.
 
@@ -54,8 +82,8 @@ Tabla 5.2. Comprobación del Teorema de Thevenin.
 
 ||Calculado|Medido|Calculado|Medido|
 |-|--------|-------|--------|------|
-|Voltaje (V)|||||
-|Corriente (mA)|||||
+|Voltaje (V)||3.89 [V]||3.90 [V]|
+|Corriente (mA)||3.89 [mA]||3.89 [mA]|
 # Video
 
 
