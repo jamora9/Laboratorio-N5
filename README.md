@@ -58,6 +58,7 @@ Resistencia de Thevenin
 Circuito equivalente de Thevenin
 
 Voltaje 
+
 ![](https://github.com/jamora9/Laboratorio-N5/blob/main/Ima/Captura%20de%20pantalla%202022-01-06%20201024.png)
 
 Corriente
