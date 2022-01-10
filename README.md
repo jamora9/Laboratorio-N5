@@ -110,7 +110,7 @@ Tabla 5.1. Valores del Circuito Equivalente de Thevenin
 
 |VTH |(V)|RTH |(Ω)|
 |----|---|---|----|
-|Calculado|5.05|Calculado|298.885|
+|Calculado|5.05 [V]|Calculado|298.885|
 |Medido|5.06 [V]|Medido|299 [Ω]|
 
 Tabla 5.2. Comprobación del Teorema de Thevenin.
@@ -120,8 +120,8 @@ Tabla 5.2. Comprobación del Teorema de Thevenin.
 
 ||Calculado|Medido|Calculado|Medido|
 |-|--------|-------|--------|------|
-|Voltaje (V)|3.88|3.89 [V]|3.88|3.90 [V]|
-|Corriente (mA)|3.88|3.89 [mA]|3.88|3.89 [mA]|
+|Voltaje (V)|3.88 [V]|3.89 [V]|3.88|3.90 [V]|
+|Corriente (mA)|3.88 [mA]|3.89 [mA]|3.88 [mA]|3.89 [mA]|
 # Video
 
 https://youtu.be/C2Qhv9twRkM
