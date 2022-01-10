@@ -66,6 +66,13 @@ Corriente
 ![](https://github.com/jamora9/Laboratorio-N5/blob/main/Ima/Captura%20de%20pantalla%202022-01-06%20201336.png)
 
 - Resolución analitica
+Arme el circuito que se presenta en la figura 5.1
+
+Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tabla 5.2.
+
+![image](https://user-images.githubusercontent.com/93900233/148816500-8eea7924-a10c-4658-b9b7-09877eb044d8.png)
+![image](https://user-images.githubusercontent.com/93900233/148816732-3a94a99c-bcb6-48f0-879b-38e648a759dc.png)
+
 
 - Resultados obtenidos para el circuito.
 
