@@ -73,6 +73,14 @@ Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tab
 ![image](https://user-images.githubusercontent.com/93900233/148816500-8eea7924-a10c-4658-b9b7-09877eb044d8.png)
 ![image](https://user-images.githubusercontent.com/93900233/148816732-3a94a99c-bcb6-48f0-879b-38e648a759dc.png)
 
+Desconecte la resistencia R5 y mida el voltaje en el circuito abierto. Anote el valor medido en la tabla 5.1.
+
+![image](https://user-images.githubusercontent.com/93900233/148816925-250c20c9-b766-4bf2-aa2c-57ecb67309d2.png)
+![image](https://user-images.githubusercontent.com/93900233/148817019-eb9fd91b-b122-4e4b-9bb6-0fb8c0e4d38d.png)
+![image](https://user-images.githubusercontent.com/93900233/148817074-4cdd49eb-2ead-4827-886d-8480f98f3c8c.png)
+![image](https://user-images.githubusercontent.com/93900233/148817192-d26527f5-1ebf-4b90-a0e8-c29cd8a3fa7f.png)
+![image](https://user-images.githubusercontent.com/93900233/148817366-602f0d59-4af5-4bdf-a562-a008b3d492a5.png)
+![image](https://user-images.githubusercontent.com/93900233/148817416-ab5e0a26-61bc-4712-88ac-9346b4efb987.png)
 
 - Resultados obtenidos para el circuito.
 
