@@ -127,7 +127,7 @@ Tabla 5.2. Comprobación del Teorema de Thevenin.
 https://youtu.be/C2Qhv9twRkM
 
 # Conclusiones 
-
+En conclusión, comprobamos que se cumple el teorema de Thévenin, llegamos a la conclusión de que este teorema nos sirve para simplificar el circuito para de esta forma hacer un circuito equivalente con menos elementos, o sea, en el planeta de las aplicaciones nos sirve para emular circuitos de productos originales y obtener uno equivalente, sin embargo disminuyendo el precio de construcción. 
 
 # Bibliografía
 
