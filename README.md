@@ -60,10 +60,12 @@ Circuito equivalente de Thevenin
 Voltaje 
 
 ![](https://github.com/jamora9/Laboratorio-N5/blob/main/Ima/Captura%20de%20pantalla%202022-01-06%20201024.png)
+![](https://github.com/jamora9/Laboratorio-N5/blob/main/Ima/Captura%20de%20pantalla%202022-01-10%20145410.png)
 
 Corriente
 
 ![](https://github.com/jamora9/Laboratorio-N5/blob/main/Ima/Captura%20de%20pantalla%202022-01-06%20201336.png)
+![](https://github.com/jamora9/Laboratorio-N5/blob/main/Ima/Captura%20de%20pantalla%202022-01-10%20145552.png)
 
 - Resolución analitica
 Arme el circuito que se presenta en la figura 5.1
