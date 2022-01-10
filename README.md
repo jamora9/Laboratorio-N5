@@ -95,8 +95,14 @@ Implemente el circuito equivalente de Thévenin, agregue la resistencia R5 y mid
 
 ![image](https://user-images.githubusercontent.com/93900233/148817856-7bf91b57-30b2-4740-8267-4b9edda855a3.png)
 
-
 - Resultados obtenidos para el circuito.
+
+ERRORES
+
+![image](https://user-images.githubusercontent.com/93900233/148818132-045adb6d-e5a8-4ecb-af88-31ce32478350.png)
+
+![image](https://user-images.githubusercontent.com/93900233/148818221-5b0e5568-4735-4be5-9f00-126eeaec8be1.png)
+
 
 Tabla 5.1. Valores del Circuito Equivalente de Thevenin
 
